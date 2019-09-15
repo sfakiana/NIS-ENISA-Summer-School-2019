@@ -1,7 +1,6 @@
 # NIS-ENISA-Summer-School-2019
-Repository to store the resources used in the presentation: 
+Repository to store the resources used in the presentation on Intelligence Requirements: 
 
-Intelligence Requirements 101 Presentation:
 <ol>
   <li><a href="https://en.wikipedia.org/wiki/Don_Quixote" target="_blank" rel="noopener">CMiguel de Cervantes - Don Quixote</a></li>
 	<li><a href="https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg" target="_blank" rel="noopener">Cliff Stoll - The Cuckoo'e Egg</a></li>
