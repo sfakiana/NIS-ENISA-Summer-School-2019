@@ -18,5 +18,7 @@ Repository to store the resources used in the presentation on Intelligence Requi
   <li><a href="https://www.first.org/events/symposium/london2019/program#pYour-Requirements-are-not-my-Requirements" target="_blank" rel="noopener">FIRST CTI 2019 (Pasquale Stirparo) - Your Requirements are not my Requirements</a></li>
   <li><a href="https://www.youtube.com/watch?v=3bXr-CF9NBI" target="_blank" rel="noopener">SANS CTI Summit 2018 - Intelligence Preparation of the Cyber Environment – Rob Dartnall</a></li>
   <li><a href="https://www.insaonline.org/wp-content/uploads/2017/04/INSA_Cyber_Intel_PrepTalent.pdf" target="_blank" rel="noopener">INSA - Cyber Intelligence: Preparing Today’s Talent for Tomorrow’s Threats</a></li>
+<li><a href="https://grammarist.com/idiom/tilting-at-windmills/" target="_blank" rel="noopener">Grammarist - Tilting at windmills</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Self-licking_ice_cream_cone" target="_blank" rel="noopener">Wikipedia - Self-licking ice cream cone</a></li>
 </ol>
  
