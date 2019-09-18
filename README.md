@@ -22,7 +22,7 @@ Intelligence Requirements
   <li><a href="https://www.insaonline.org/wp-content/uploads/2017/04/INSA_Cyber_Intel_PrepTalent.pdf" target="_blank" rel="noopener">INSA - Cyber Intelligence: Preparing Today’s Talent for Tomorrow’s Threats</a></li>
 <li><a href="https://grammarist.com/idiom/tilting-at-windmills/" target="_blank" rel="noopener">Grammarist - Tilting at windmills</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Self-licking_ice_cream_cone" target="_blank" rel="noopener">Wikipedia - Self-licking ice cream cone</a></li>
-<li><a href="https://www.sans.org/webcasts/cycle-cyber-threat-intelligence-111570" target="_blank" rel="noopener">SANS (Katie Nichels) - The Cycle of Cyber Threat Intelligence</a></li>
+<li><a href="https://www.sans.org/webcasts/cycle-cyber-threat-intelligence-111570" target="_blank" rel="noopener">SANS (Katie Nickels) - The Cycle of Cyber Threat Intelligence</a></li>
 </ol>
  
  
@@ -52,5 +52,5 @@ Intelligence Requirements
 <li><a href="https://www.us-cert.gov/tlp" target="_blank" rel="noopener">US-CERT - Traffic Light Protocol (TLP) Definitions and Usage</a></li>
 <li><a href="https://www.slideshare.net/MarkArena/how-to-build-a-cyber-threat-intelligence-program" target="_blank" rel="noopener">Intel471 (Mark Arena) - How to Build a Cyber Threat Intelligence Program</a></li>
 <li><a href="https://www.sans.org/summit-archives/file/summit-archive-1492183163.pdf" target="_blank" rel="noopener">Intel471 (Mark Arena) - Cyber Threat Intelligence - Maturity and Metrics</a></li>
-<li><a href="https://www.sans.org/webcasts/cycle-cyber-threat-intelligence-111570" target="_blank" rel="noopener">SANS (Katie Nichels) - The Cycle of Cyber Threat Intelligence</a></li>
+<li><a href="https://www.sans.org/webcasts/cycle-cyber-threat-intelligence-111570" target="_blank" rel="noopener">SANS (Katie Nickels) - The Cycle of Cyber Threat Intelligence</a></li>
 </ol>
