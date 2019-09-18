@@ -24,8 +24,8 @@ Intelligence Requirements
 <li><a href="https://en.wikipedia.org/wiki/Self-licking_ice_cream_cone" target="_blank" rel="noopener">Wikipedia - Self-licking ice cream cone</a></li>
 </ol>
  
+ 
  CTI Reporting
- Intelligence Report Writing 101 Presentation:
 <ol>
 	<li><a href="http://www.cyintanalysis.com/write-it-or-it-didnt-happen/" target="_blank" rel="noopener">CYINT Analysis - Write It, Or It Didn't Happen</a></li>
 	<li><a href="https://www.youtube.com/watch?v=1h7rLHNXio8" target="_blank" rel="noopener">CTI Summit 2017 Keynote - Cliff Stoll - (Still) Stalking the Wily Hacker</a></li>
