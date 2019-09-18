@@ -48,11 +48,7 @@ Intelligence Requirements
 	<li><a href="https://twitter.com/cabinetofficeuk/status/803941969630269440/photo/1" target="_blank" rel="noopener">Winston Churchill's Writing Advice</a></li>
 	<li><a href="https://fas.org/irp/cia/product/style.pdf" target="_blank" rel="noopener">Style Manual and Writers' Guide for Intelligence Publications</a></li>
 	<li><a href="https://en.wikipedia.org/wiki/Admiralty_code" target="_blank" rel="noopener">Admiralty Code</a></li>
-	<li><a href="https://www.digitalshadows.com/blog-and-research/wannacry-an-analysis-of-competing-hypotheses/" target="_blank" rel="noopener">Digital Shadows - WannaCry: An Analysis of Competing Hypotheses</a></li>
-	<li><a href="https://www.youtube.com/watch?v=PtYWVzY2Ves" target="_blank" rel="noopener">SANS CTI Summit 2018 - Rick Holland -There Is MOAR To Structured Analytic Techniques Than Just ACH</a></li>
 	<li><a href="https://www.us-cert.gov/tlp" target="_blank" rel="noopener">US-CERT - Traffic Light Protocol (TLP) Definitions and Usage</a></li>
 	<li><a href="https://www.slideshare.net/MarkArena/how-to-build-a-cyber-threat-intelligence-program" target="_blank" rel="noopener">Intel471 (Mark Arena) - How to Build a Cyber Threat Intelligence Program</a></li>
 	<li><a href="https://www.sans.org/summit-archives/file/summit-archive-1492183163.pdf" target="_blank" rel="noopener">Intel471 (Mark Arena) - Cyber Threat Intelligence - Maturity and Metrics</a></li>
-	<li><a href="http://blog.shadowserver.org/2015/08/10/the-italian-connection-an-analysis-of-exploit-supply-chains-and-digital-quartermasters/" target="_blank" rel="noopener">Shadowserver - The Italian Connection: An analysis of exploit supply chains and digital quartermasters</a></li>
-	<li><a href="http://www.cyintanalysis.com/what-analysts-can-learn-from-shadowservers-italian-connection-report/#more-351" target="_blank" rel="noopener">CYINT Analysis - What Analysts Can Learn From Shadowserver’s “Italian Connection” Report</a></li>
 </ol>
